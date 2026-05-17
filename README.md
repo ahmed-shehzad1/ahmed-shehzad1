@@ -1,56 +1,68 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F58C&width=500&lines=Ahmed+Shehzad;Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications)
 # Hi 👋, I'm Ahmed Shehzad
 
-### Full Stack MERN Developer | React | Node.js | MongoDB
-
-Passionate about building modern web applications with scalable backend systems, beautiful UI/UX, and real-world functionality.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F58C&width=700&lines=Full+Stack+Developer;Python+Automation+Engineer;Bot+Developer;MERN+Stack+Engineer;Angular+%7C+TypeScript+Developer;There+is+nothing+I+cannot+learn.)
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 💻 MERN Stack Developer
-- 🌱 Currently improving full-stack architecture skills
-- 🗺️ Working with Mapbox APIs & real-time applications
-- ⚡ Love creating interactive and responsive user experiences
-- 🎯 Focused on clean UI and practical products
+I'm a passionate software developer who enjoys building modern applications, automation systems, bots, and scalable backend architectures.
+
+I love exploring new technologies and solving difficult engineering problems through code.
+
+> ### "There is nothing I cannot learn."
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Technologies & Skills
 
-### Frontend
+## Frontend Development
 - React.js
-- Vite
+- Angular
+- TypeScript
 - JavaScript
 - HTML5
 - CSS3
 - Tailwind CSS
+- Vite
 
-### Backend
+## Backend Development
 - Node.js
 - Express.js
-- MongoDB
+- PHP
+- REST APIs
 - JWT Authentication
 
-### Tools & Deployment
+## Databases
+- MongoDB
+- MySQL
+- Oracle SQL
+
+## Python & Automation
+- Python Automation
+- Bot Development
+- API Integrations
+- Web Scraping
+- Scripting Tools
+
+## Tools & Platforms
 - Git & GitHub
 - Vercel
 - Render
-- REST APIs
 - Mapbox API
+- VS Code
 
 ---
 
-## 🌟 Featured Project
+# 🌟 Featured Project
 
-# 🚗 Rydex 2.0
+## 🚗 Rydex 2.0
 
 AI-powered ride-sharing platform built using the MERN stack.
 
 ### Features
 - Smart route matching
-- Interactive live maps
+- Interactive Mapbox navigation
 - Driver & passenger system
 - JWT authentication
 - Responsive modern UI
@@ -60,35 +72,25 @@ AI-powered ride-sharing platform built using the MERN stack.
 
 ---
 
-## 📈 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-shehzad1&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=tokyonight)
-
----
-
-## 🛠️ Skills
+# 🛠️ Tech Icons
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,git,github,vscode,vite" />
+<img src="https://skillicons.dev/icons?i=react,angular,ts,js,nodejs,express,mongodb,mysql,php,python,git,github,vscode,vite" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/ahmed-shahzad-46711a405
+- LinkedIn: www.linkedin.com/in/ahmed-shahzad-46711a405
 - Email: mrahmedshahzad321@gmail.com
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Philosophy
 
-I enjoy building products that combine beautiful UI with real-world functionality.
-<!--
-**ahmed-shehzad1/ahmed-shehzad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I believe great developers are not defined by what they already know, but by how quickly they can learn what they don't.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
