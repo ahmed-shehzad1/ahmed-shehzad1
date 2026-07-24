@@ -79,12 +79,11 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 🟩 Contribution Calendar
 
 <div align="center">
   <br />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmed-shehzad1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00F58C&icon_color=00F58C&text_color=c9d1d9" alt="Ahmed's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D2FF&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://ghchart.rshah.org/00F58C/ahmed-shehzad1" alt="Ahmed's GitHub Contributions" width="100%" />
 </div>
 
 ---
