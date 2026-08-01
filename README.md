@@ -12,12 +12,6 @@
 
 <blockquote><strong>"There is nothing I cannot learn."</strong></blockquote>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20Systems%20Architecture-00F58C?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Node.js%20%7C%20Postgres%20%7C%20Prisma-00D2FF?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-Monorepo%20%26%20Layered%20Design-0d1117?style=for-the-badge&logo=typescript&logoColor=00F58C" />
-</p>
-
 </div>
 
 ---
@@ -53,12 +47,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-shehzad1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&icon_color=00D2FF&text_color=8b949e&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmed-shehzad1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00F58C&fire=00D2FF&currStreakLabel=00F58C" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=ahmed-shehzad1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&icon_color=00D2FF&text_color=8b949e&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00F58C&fire=00D2FF&currStreakLabel=00F58C&sideLabels=8b949e&dates=8b949e" height="170" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&text_color=8b949e&langs_count=10" height="160" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&text_color=8b949e&langs_count=12" height="160" alt="Top Languages" />
 
 </div>
 
@@ -67,31 +62,50 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-shehzad1&theme=darkhub&no-frame=true&margin-w=6&column=7&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-shehzad1&theme=darkhub&no-frame=true&margin-w=6&column=7&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 #### 🌐 Frontend
-`Next.js` `React` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `HTML5` `CSS3` `Vite`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,vite" />
+</p>
 
 #### ⚡ Backend & API
-`Node.js` `Express.js` `TypeScript` `PHP` `REST APIs`  
-Patterns: Layered Architecture · DTO validation · Middleware auth · Centralized error handling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,php" />
+</p>
 
 #### 🗄️ Database & Storage
-`PostgreSQL` `Prisma ORM` `Supabase` `MongoDB` `MySQL` `Oracle SQL`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,mongodb,mysql,sqlite" />
+</p>
 
 #### 🔐 Auth & Security
-`JWT` `Google OAuth 2.0` `bcrypt` `RBAC` `Environment config management`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions" />
+  &nbsp;<code>JWT</code>&nbsp;<code>OAuth 2.0</code>&nbsp;<code>bcrypt</code>&nbsp;<code>RBAC</code>
+</p>
 
 #### 🤖 AI & Automation
-`Google Gemini` `Groq` `OpenAI` `Anthropic Claude` `OpenRouter` `Python` `Web Scraping`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow" />
+  &nbsp;<code>Gemini</code>&nbsp;<code>Groq</code>&nbsp;<code>OpenAI</code>&nbsp;<code>Claude</code>&nbsp;<code>OpenRouter</code>
+</p>
 
 #### 🛠️ DevOps & Tooling
-`Turborepo` `Git` `GitHub` `Vercel` `Render` `ESLint` `Prisma CLI` `TypeScript Compiler`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,bash,npm,docker" />
+</p>
 
 ---
 
@@ -100,44 +114,40 @@ Patterns: Layered Architecture · DTO validation · Middleware auth · Centraliz
 #### 🎓 AIRO — Academic Intelligence & Resource Orchestrator
 > Enterprise monorepo platform for academic knowledge management, Google Classroom sync & multi-AI processing
 
-Built as a Turborepo monorepo with strict layer isolation. PostgreSQL schema managed via Prisma ORM with relational constraints and transactional workflows. Includes a deterministic classification engine for course aliases paired with a provider-agnostic AI Router, and a multi-tier document publishing workflow (`PRIVATE` → `PENDING_REVIEW` → `PUBLISHED`).
+Built as a Turborepo monorepo with strict layer isolation. PostgreSQL schema managed via Prisma ORM with relational constraints and transactional workflows. Features a deterministic classification engine paired with a provider-agnostic AI Router (Gemini / Groq / OpenAI / Claude), and a multi-tier document publishing workflow (`PRIVATE` → `PENDING_REVIEW` → `PUBLISHED`).
 
-**Stack:** `Next.js` `React` `Node.js` `Express` `TypeScript` `PostgreSQL` `Prisma` `Turborepo` `Google Classroom API` `OAuth 2.0` `Multi-AI`
+**Stack:** `Next.js` · `Node.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Turborepo` · `Google Classroom API` · `OAuth 2.0` · `Multi-AI`
 
 ---
 
 #### 🚗 Rydex 2.0 — AI-Powered Ride-Sharing Platform
-> Smart driver-passenger route matching · Mapbox navigation · Dual-portal role interfaces
+> Smart route matching · Mapbox navigation · Dual-portal role interfaces · JWT auth
 
-[Visit Rydex 2.0 →](https://rydex-2-0.vercel.app)
+**Stack:** `MongoDB` · `Express.js` · `React` · `Node.js` · `Mapbox API` · `JWT`
 
-**Stack:** `MongoDB` `Express.js` `React` `Node.js` `Mapbox API` `JWT`
+🔗 [rydex-2-0.vercel.app](https://rydex-2-0.vercel.app)
 
 ---
 
 #### 🏎️ EliteDrive — Luxury Car Rental & VIP Concierge
-> Dynamic fleet management · Supabase RLS · Integrated AI concierge assistant
+> Dynamic fleet management · Supabase RLS policies · Integrated AI concierge assistant
 
-[Visit EliteDrive →](https://elite-drive-mu.vercel.app/)
+**Stack:** `JavaScript (ES6+)` · `Supabase Auth/RLS/DB` · `HTML5/CSS3` · `Vercel`
 
-**Stack:** `JavaScript (ES6+)` `Supabase Auth/RLS/DB` `HTML5/CSS3` `Vercel`
+🔗 [elite-drive-mu.vercel.app](https://elite-drive-mu.vercel.app/)
 
 ---
 
 ### 📫 Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-shahzad-46711a405">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:mrahmedshahzad321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ahmed-shehzad1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shahzad-46711a405)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrahmedshahzad321@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmed-shehzad1)
+
 </div>
 
 <br/>
@@ -150,6 +160,4 @@ Built as a Turborepo monorepo with strict layer isolation. PostgreSQL schema man
 
 <div align="center">
   <i>"Simplicity is prerequisite for reliability. Great engineering isn't about writing complex code — it's about making complex systems simple, scalable, and elegant."</i>
-  <br/><br/>
-  <b>Always open to discussing system architecture, AI integrations, or high-impact engineering projects.</b>
 </div>
