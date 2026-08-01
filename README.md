@@ -29,49 +29,61 @@
 
 ### 🧰 Tech Stack & Tooling
 
+<div align="center">
+
 #### 🌐 Frontend
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,vite" alt="Frontend Icons" />
   </a>
 </p>
 
+<br />
+
 #### ⚙️ Backend
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,ts,php" alt="Backend Icons" />
   </a>
-  &nbsp;
+  <br /><br />
   <img src="https://img.shields.io/badge/REST_API-00F58C?style=for-the-badge&logo=fastapi&logoColor=black" alt="REST API" />
 </p>
 
+<br />
+
 #### 🗄️ Data & Infrastructure
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,mongodb,mysql,sqlite" alt="Database Icons" />
   </a>
 </p>
 
+<br />
+
 #### 🤖 AI & Intelligent Systems
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" alt="AI Icons" />
   </a>
-  <br />
+  <br /><br />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq-F05032?style=for-the-badge&logo=speedtest&logoColor=white" />
 </p>
 
+<br />
+
 #### 🛠️ DevOps & Tooling
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,bash,npm,docker" alt="DevOps Icons" />
   </a>
-  &nbsp;
+  <br /><br />
   <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
@@ -144,15 +156,26 @@
 
 ### 📊 GitHub Activity
 
+<br />
+
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ahmed-shehzad1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&icon_color=00D2FF&text_color=8b949e&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00F58C&fire=00D2FF&currStreakLabel=00F58C&sideLabels=8b949e&dates=8b949e" height="170" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&text_color=8b949e&langs_count=12" height="160" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-shehzad1&theme=darkhub&no-frame=true&margin-w=6&column=7&no-bg=true" alt="GitHub Trophies" />
+  <!-- Stats & Streak Row -->
+  <img src="https://github-stats-extended.vercel.app/api?username=ahmed-shehzad1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&icon_color=00D2FF&text_color=8b949e&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00F58C&fire=00D2FF&currStreakLabel=00F58C&sideLabels=8b949e&dates=8b949e" height="180" alt="GitHub Streak" />
+  
+  <br /><br /><br />
+  
+  <!-- Languages Row -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&text_color=8b949e&langs_count=12" height="180" alt="Top Languages" />
+  
+  <br /><br /><br />
+  
+  <!-- Trophies Row -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-shehzad1&theme=darkhub&no-frame=true&margin-w=15&column=7&no-bg=true" alt="GitHub Trophies" />
 </div>
+
+<br />
 
 ---
 
