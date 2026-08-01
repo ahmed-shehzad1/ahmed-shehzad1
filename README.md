@@ -171,9 +171,6 @@
   
   <br /><br /><br />
   
-  <!-- Trophies Row -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-shehzad1&theme=darkhub&no-frame=true&margin-w=15&column=7&no-bg=true" alt="GitHub Trophies" />
-</div>
 
 <br />
 
