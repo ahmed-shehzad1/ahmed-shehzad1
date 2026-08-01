@@ -1,179 +1,186 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00F58C,100:00D2FF&height=180&section=header&text=Ahmed%20Shehzad&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20Systems%20Architect%20%7C%20AI%20Integrations&descSize=14&descAlignY=58&descColor=8b949e&animation=twinkling" width="100%" />
+  <!-- HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F58C,100:00D2FF&height=220&section=header&text=Ahmed%20Shehzad&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=00F58C&center=true&vCenter=true&width=700&height=36&lines=TypeScript+%7C+Next.js+%7C+Node.js+%7C+Turborepo;PostgreSQL+%7C+Prisma+%7C+Supabase+%7C+MongoDB;Gemini+%7C+Groq+%7C+OpenAI+%7C+Claude;There+is+nothing+I+cannot+learn." alt="Typing SVG" />
+  <!-- ANIMATED TYPING SUBTITLE -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F58C&center=true&vCenter=true&width=750&lines=Full+Stack+%26+Systems+Architect;Next.js+%26+Turborepo+Monorepo+Engineer;Node.js%2C+Prisma+%26+PostgreSQL+Specialist;AI+Integration+%26+Automation+Architect;There+is+nothing+I+cannot+learn." alt="Typing SVG" />
+  </a>
 
-<br>
+  <br />
 
-<a href="https://github.com/ahmed-shehzad1"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/ahmed-shahzad-46711a405"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00D2FF" /></a>&nbsp;
-<a href="mailto:mrahmedshahzad321@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00F58C" /></a>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ What I Build
-
-<table><tr>
-<td align="center" width="25%"><b>🏗️ Scalable Systems</b><br><sub>Monorepos · REST APIs<br>Modular architecture<br>Type-safe boundaries</sub></td>
-<td align="center" width="25%"><b>🤖 AI-Powered Products</b><br><sub>Multi-provider AI routing<br>Document processing<br>Deterministic + AI hybrids</sub></td>
-<td align="center" width="25%"><b>🔐 Secure Applications</b><br><sub>JWT · OAuth 2.0 · RBAC<br>DTO validation<br>Resource ownership</sub></td>
-<td align="center" width="25%"><b>🗄️ Data-Driven Backends</b><br><sub>Relational modeling<br>Prisma ORM · Migrations<br>Transactional workflows</sub></td>
-</tr></table>
+  <blockquote>
+    <strong>"There is nothing I cannot learn."</strong>
+  </blockquote>
 
 </div>
 
 ---
 
+### ⚡ What I Build
+
+*   🏗️ **Scalable Systems:** Monorepos (Turborepo), REST APIs, Modular Layered Architecture, Type-safe boundaries, and Transaction-safe workflows.
+*   🤖 **AI-Powered Products:** Multi-provider AI routing (Gemini, Groq, OpenAI, Claude), document parsing, structured JSON outputs, and deterministic + AI hybrid systems.
+*   🔐 **Secure Applications:** JWT, OAuth 2.0, Role-Based Access Control (RBAC), strict DTO validation, and resource ownership boundaries.
+*   🗄️ **Data-Driven Backends:** Relational data modeling, Prisma ORM, PostgreSQL schema design, automated migrations, and complex transactional database operations.
+
+---
+
+### 🧰 Tech Stack & Tooling
+
+#### 🌐 Frontend
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,vite" alt="Frontend Icons" />
+  </a>
+</p>
+
+#### ⚙️ Backend
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,php" alt="Backend Icons" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST_API-00F58C?style=for-the-badge&logo=fastapi&logoColor=black" alt="REST API" />
+</p>
+
+#### 🗄️ Data & Infrastructure
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,mongodb,mysql,sqlite" alt="Database Icons" />
+  </a>
+</p>
+
+#### 🤖 AI & Intelligent Systems
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" alt="AI Icons" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F05032?style=for-the-badge&logo=speedtest&logoColor=white" />
+</p>
+
+#### 🛠️ DevOps & Tooling
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,bash,npm,docker" alt="DevOps Icons" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
+</p>
+
+---
+
+### 🧠 How I Engineer
+
+> **01 🧩 STRUCTURE**  
+> Clear modules · Focused responsibilities · Predictable layer boundaries
+
+> **02 🔐 PROTECT**  
+> Strict DTO input validation · Fine-grained RBAC access control · Resource ownership
+
+> **03 ⚡ PROCESS**  
+> Deterministic rule-based logic *first* · Expensive multi-provider AI fallbacks *second*
+
+> **04 📈 SCALE**  
+> Reusable isolated services · Reliable transaction-safe data flows · Architecture with room to grow
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎓 AIRO — Academic Intelligence & Resource Orchestrator
+> **Full-stack academic platform combining knowledge management, Google Classroom synchronization, document workflows, and multi-provider AI processing.**
+
+*   🧠 **Intelligence:** Deterministic classification engine paired with multi-provider AI routing (Gemini / Groq / OpenAI / Claude) for structured document extraction.
+*   🏗️ **Architecture:** Built on a Turborepo monorepo with strict `Controller → Service → Repository` layering and a transaction-safe PostgreSQL + Prisma backend.
+*   🔐 **Security:** Enforced via OAuth 2.0, strict resource ownership policies, DTO input validation, and a controlled document publishing workflow (`PRIVATE` → `PENDING` → `PUBLISHED`).
+*   🔗 **Integrations:** Google Classroom API sync, automated document processing, and intelligent multi-stage provider fallbacks.
+
+<p>
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Classroom_API-008744?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--AI-00D2FF?style=for-the-badge&logo=openai&logoColor=black" />
+</p>
+
+<br />
+
+#### 🚗 Rydex 2.0 — AI-Powered Ride-Sharing Platform
+> **Ride-sharing ecosystem focused on intelligent route matching, navigation, role-based dual portals, and secure authentication.**
+
+*   🗺️ **Smart Matching:** Intelligent passenger-to-driver route matching algorithms.
+*   🔐 **Secure Access:** End-to-end JWT authentication and protected API routes.
+*   🧭 **Navigation:** Integrated interactive mapping and routing via the Mapbox API.
+*   👥 **Dual Portal:** Distinct, role-based UI experiences for both Drivers and Passengers.
+
+<p>
+  <a href="https://rydex-2-0.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-00F58C?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+  </a>
+</p>
+
+<br />
+
+#### 🏎️ EliteDrive — Luxury Car Rental & VIP Concierge
+> **Premium vehicle rental platform featuring dynamic fleet management, Supabase RLS security policies, and an integrated AI concierge.**
+
+*   🚘 **Fleet:** Dynamic vehicle inventory and booking management.
+*   🔐 **Authentication:** Secure user sessions powered by Supabase Auth.
+*   🛡️ **Security:** Row Level Security (RLS) policies ensuring complete data isolation.
+*   🤖 **AI:** Built-in luxury concierge assistant for enhanced VIP user experience.
+
+<p>
+  <a href="https://elite-drive-mu.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-00D2FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Activity
+
 <div align="center">
-
-## 🧰 Tech Stack
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,vite&perline=8" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php&perline=8" />
-
-**Data & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,mongodb,mysql,sqlite,docker&perline=8" />
-
-**DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,linux,bash,npm,vscode&perline=8" />
-
-**AI & Intelligent Systems**
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow&perline=8" />
-
-<img src="https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=00D2FF" />&nbsp;
-<img src="https://img.shields.io/badge/Groq-0d1117?style=flat-square&logoColor=00F58C" />&nbsp;
-<img src="https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Claude-0d1117?style=flat-square&logoColor=00D2FF" />&nbsp;
-<img src="https://img.shields.io/badge/OpenRouter-0d1117?style=flat-square&logoColor=00F58C" />
-
+  <img src="https://github-stats-extended.vercel.app/api?username=ahmed-shehzad1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&icon_color=00D2FF&text_color=8b949e&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00F58C&fire=00D2FF&currStreakLabel=00F58C&sideLabels=8b949e&dates=8b949e" height="170" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&text_color=8b949e&langs_count=12" height="160" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-shehzad1&theme=darkhub&no-frame=true&margin-w=6&column=7&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
 
+### 🤝 Let's Connect
+
 <div align="center">
-
-## 🧠 Engineering Philosophy
-
-<table><tr>
-<td align="center" width="25%"><sub>01</sub><br><b>🧩 STRUCTURE</b><br><sub>Clear modules<br>Focused responsibilities<br>Predictable boundaries</sub></td>
-<td align="center" width="25%"><sub>02</sub><br><b>🔐 PROTECT</b><br><sub>Validate input<br>Control access<br>Own resources</sub></td>
-<td align="center" width="25%"><sub>03</sub><br><b>⚡ PROCESS</b><br><sub>Deterministic logic<br>before expensive AI<br>when possible</sub></td>
-<td align="center" width="25%"><sub>04</sub><br><b>📈 SCALE</b><br><sub>Reusable services<br>Reliable data flows<br>Room to grow</sub></td>
-</tr></table>
-
-<br>
-
-<em>Make complex systems easier to understand, maintain, and scale.</em>
-
+  <a href="https://www.linkedin.com/in/ahmed-shahzad-46711a405">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mrahmedshahzad321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ahmed-shehzad1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
----
+<br />
 
 <div align="center">
-
-## 🚀 Featured Projects
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:00F58C,100:0d1117&height=110&section=footer" width="100%" />
 </div>
 
-### 🎓 AIRO — Academic Intelligence & Resource Orchestrator
-
-<div align="center"><img src="https://skillicons.dev/icons?i=nextjs,nodejs,typescript,postgres,prisma&perline=5" /></div>
-
-> Full-stack academic platform combining knowledge management, Google Classroom sync, document workflows, and multi-provider AI processing — built as a Turborepo monorepo with strict layer isolation and transaction-safe PostgreSQL workflows.
-
-<table><tr>
-<td width="50%" valign="top"><b>🧠 Intelligence</b><br><ul><li>Deterministic classification engine</li><li>Multi-provider AI routing</li><li>Gemini / Groq / OpenAI / Claude</li><li>Structured AI processing</li></ul></td>
-<td width="50%" valign="top"><b>🏗️ Architecture</b><br><ul><li>Turborepo monorepo</li><li>Controller → Service → Repository</li><li>PostgreSQL + Prisma ORM</li><li>Transaction-safe workflows</li></ul></td>
-</tr><tr>
-<td width="50%" valign="top"><b>🔐 Security</b><br><ul><li>OAuth 2.0 + RBAC</li><li>Resource ownership controls</li><li>DTO input validation</li><li>Controlled publishing pipeline</li></ul></td>
-<td width="50%" valign="top"><b>🔗 Integrations</b><br><ul><li>Google Classroom API</li><li>Automated document processing</li><li>PRIVATE → PENDING → PUBLISHED</li><li>AI provider fallback chain</li></ul></td>
-</tr></table>
-
-<div align="center"><code>Turborepo</code> · <code>OAuth 2.0</code> · <code>Google Classroom API</code> · <code>Multi-AI</code></div>
-
----
-
-### 🚗 Rydex 2.0 — AI-Powered Ride-Sharing Platform
-
-<div align="center"><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&perline=4" /></div>
-
-> Ride-sharing platform with smart route matching, interactive Mapbox navigation, JWT authentication, and dual-portal role-based interfaces for drivers and passengers.
-
 <div align="center">
-
-| 🗺️ Smart Matching | 🔐 Secure Access | 🧭 Navigation | 👥 Dual Portal |
-|:-:|:-:|:-:|:-:|
-| Route matching algorithm | JWT authentication | Mapbox API | Role-based UI |
-
-<br>
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-0d1117?style=for-the-badge&labelColor=0d1117&color=00F58C&logoColor=white)](https://rydex-2-0.vercel.app)
-
-</div>
-
----
-
-### 🏎️ EliteDrive — Luxury Car Rental & VIP Concierge
-
-<div align="center"><img src="https://skillicons.dev/icons?i=javascript,supabase,html,css,vercel&perline=5" /></div>
-
-> Premium vehicle rental platform with dynamic fleet management, Supabase Row Level Security policies, authentication flows, and an integrated AI concierge experience.
-
-<div align="center">
-
-| 🚘 Fleet | 🔐 Authentication | 🛡️ Security | 🤖 AI |
-|:-:|:-:|:-:|:-:|
-| Dynamic management | Supabase Auth | Row Level Security | AI concierge |
-
-<br>
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-0d1117?style=for-the-badge&labelColor=0d1117&color=00D2FF&logoColor=white)](https://elite-drive-mu.vercel.app/)
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Activity
-
-<img src="https://github-stats-extended.vercel.app/api?username=ahmed-shehzad1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&icon_color=00D2FF&text_color=8b949e&count_private=true&include_all_commits=true" height="160" />&nbsp;<img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00F58C&fire=00D2FF&currStreakLabel=00F58C&sideLabels=8b949e&dates=8b949e" height="160" />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&text_color=8b949e&langs_count=10" height="145" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌱 Currently Exploring
-
-<img src="https://img.shields.io/badge/AI%20Systems-0d1117?style=flat-square&logo=googlegemini&logoColor=00F58C" />&nbsp;
-<img src="https://img.shields.io/badge/Distributed%20Systems-0d1117?style=flat-square&logoColor=00D2FF" />&nbsp;
-<img src="https://img.shields.io/badge/Advanced%20TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />&nbsp;
-<img src="https://img.shields.io/badge/Backend%20Scalability-0d1117?style=flat-square&logo=nodedotjs&logoColor=00D2FF" />&nbsp;
-<img src="https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=githubactions&logoColor=00F58C" />
-
----
-
-**⚡ Build. Learn. Improve. Repeat.**
-
-*"Simplicity is prerequisite for reliability."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:00F58C,100:0d1117&height=100&section=footer" width="100%" />
-
+  <h3>⚡ Build. Learn. Improve. Repeat.</h3>
+  <blockquote>
+    <i>"Simplicity is prerequisite for reliability."</i>
+  </blockquote>
 </div>
