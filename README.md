@@ -179,6 +179,10 @@
 ### 🤝 Let's Connect
 
 <div align="center">
+  <a href="https://portfolio-khaki-zeta-11.vercel.app/">
+    <img src="https://img.shields.io/badge/MY_PORTFOLIO-00F58C?style=for-the-badge&logo=vercel&logoColor=black" alt="My Portfolio" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmed-shahzad-46711a405">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -192,7 +196,7 @@
   </a>
 </div>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00F58C?style=plastic&logo=vercel&logoColor=black)](https://portfolio-khaki-zeta-11.vercel.app/)
+
 
 <br />
 
