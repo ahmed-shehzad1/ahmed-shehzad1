@@ -192,6 +192,8 @@
   </a>
 </div>
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00F58C?style=plastic&logo=vercel&logoColor=black)](https://portfolio-khaki-zeta-11.vercel.app/)
+
 <br />
 
 <div align="center">
