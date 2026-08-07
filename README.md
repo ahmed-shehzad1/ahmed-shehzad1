@@ -160,7 +160,15 @@
 
 <div align="center">
   <!-- Stats & Streak Row -->
-  <img src="https://github-stats-extended.vercel.app/api?username=ahmed-shehzad1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&icon_color=00D2FF&text_color=8b949e&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ahmed-shehzad1&label=Profile%20Views&color=00F58C&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00F58C&fire=00D2FF&currStreakLabel=00F58C&sideLabels=8b949e&dates=8b949e" height="180" alt="GitHub Streak" />
+
+</div>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00F58C&fire=00D2FF&currStreakLabel=00F58C&sideLabels=8b949e&dates=8b949e" height="180" alt="GitHub Streak" />
   
