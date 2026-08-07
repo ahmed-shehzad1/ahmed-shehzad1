@@ -166,7 +166,6 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00F58C&fire=00D2FF&currStreakLabel=00F58C&sideLabels=8b949e&dates=8b949e" height="180" alt="GitHub Streak" />
 
 </div>
   &nbsp;&nbsp;&nbsp;&nbsp;
