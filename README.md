@@ -176,8 +176,8 @@
   <a href="https://rankistan.dev/#ahmed-shehzad1">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fahmed-shehzad1&style=for-the-badge" alt="Rankistan rank badge">
 </a>
+<br> <br />
 
-    
   <!-- Languages Row -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F58C&text_color=8b949e&langs_count=12" height="180" alt="Top Languages" />
   
