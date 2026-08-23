@@ -43,35 +43,30 @@
 #### ⚙️ Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,php" alt="Backend Icons" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,js" alt="Backend Icons" />
   </a>
   <br /><br />
   <img src="https://img.shields.io/badge/REST_API-00F58C?style=for-the-badge&logo=fastapi&logoColor=black" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/bcrypt-338033?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="bcrypt" />
+  <img src="https://img.shields.io/badge/Multer-FF6600?style=for-the-badge&logo=npm&logoColor=white" alt="Multer" />
+  <img src="https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=gmail&logoColor=white" alt="Nodemailer" />
+  <img src="https://img.shields.io/badge/Sharp-99CC00?style=for-the-badge&logo=sharp&logoColor=white" alt="Sharp" />
 </p>
-
 <br />
 
 #### 🗄️ Data & Infrastructure
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,mongodb,mysql,sqlite" alt="Database Icons" />
+    <img src="https://skillicons.dev/icons?i=postgres,supabase" alt="Database Icons" />
   </a>
 </p>
-
 <br />
 
 #### 🤖 AI & Intelligent Systems
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" alt="AI Icons" />
-  </a>
-  <br /><br />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F05032?style=for-the-badge&logo=speedtest&logoColor=white" />
 </p>
-
 <br />
 
 #### 🛠️ DevOps & Tooling
