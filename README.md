@@ -146,3 +146,69 @@ I don't just want code that works. I want to understand *why* it works, where it
 <p align="center">
   <i>Learning new tools. Breaking old assumptions. Building better systems.</i>
 </p>
+
+## 🧠 ENGINEERING PHILOSOPHY
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2400&pause=700&color=06B6D4&center=true&vCenter=true&width=650&lines=Don't+just+make+it+work.;Make+it+make+sense.;Make+it+secure.;Make+it+ready+to+grow." alt="Engineering philosophy animation"/>
+</p>
+
+> **Build systems that are easy to understand, difficult to misuse, and ready to evolve.**
+
+### 🧩 STRUCTURE
+
+I believe good architecture starts with **clarity**.
+
+I focus on:
+- Clear module boundaries
+- Focused responsibilities
+- Reusable services
+- Predictable data flow
+- Maintainable code
+
+`Controller → Service → Repository`
+
+### 🔐 PROTECT
+
+Security is part of the architecture — **not a final checklist.**
+
+My approach includes:
+- Authentication & authorization
+- RBAC
+- DTO & input validation
+- Resource ownership
+- Protected API boundaries
+- Secure database operations
+
+### ⚙️ PROCESS
+
+**Deterministic logic first. AI where it adds value.**
+
+I prefer reliable conventional logic when the problem doesn't require AI.
+
+When AI genuinely improves the product, I build it with:
+- Controlled provider routing
+- Fallback strategies
+- Structured outputs
+- Predictable failure handling
+
+### 📈 SCALE
+
+I don't want software that only works today.
+
+I aim for systems that can:
+**evolve → scale → integrate → survive change**
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:2563EB,100:06B6D4&height=4&section=header&animation=twinkling" width="75%"/>
+</p>
+
+<p align="center">
+  <b>ARCHITECT</b> → <b>BUILD</b> → <b>BREAK</b> → <b>LEARN</b> → <b>IMPROVE</b>
+</p>
+
+<p align="center">
+  <i>Good software isn't just built. It's engineered.</i>
+</p>
