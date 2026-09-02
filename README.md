@@ -212,3 +212,73 @@ I aim for systems that can:
 <p align="center">
   <i>Good software isn't just built. It's engineered.</i>
 </p>
+
+## 🚀 FEATURED PROJECTS
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=Ideas+into+products.;Products+into+systems.;Systems+built+to+last." alt="Projects animation"/>
+</p>
+
+### 🧠 AIRO
+**Academic Intelligence & Resource Orchestrator**
+
+A full-stack academic platform combining knowledge management, Google Classroom synchronization, document workflows, and multi-provider AI processing.
+
+**What makes it interesting**
+- 🤖 Gemini / Groq / OpenAI / DeepSeek / Claude routing
+- 📚 Google Classroom integration
+- 📄 Intelligent document extraction & processing
+- 🏗️ Turborepo monorepo architecture
+- 🗄️ PostgreSQL + Prisma
+- 🔐 OAuth 2.0, ownership policies & DTO validation
+- ⚙️ Controller → Service → Repository architecture
+
+---
+
+### 🚗 RYDEX 2.0
+**AI-Powered Ride-Sharing Platform**
+
+A ride-sharing ecosystem built around intelligent route matching, navigation, secure authentication, and dedicated driver/passenger experiences.
+
+**Core systems**
+- 🧠 Intelligent passenger-to-driver route matching
+- 🔐 JWT authentication & protected APIs
+- 🗺️ Mapbox-powered navigation
+- 👤 Driver & Passenger portals
+- ⚡ Full-stack real-time oriented architecture
+
+<p align="center">
+  <a href="https://rydex-2-0.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💎 ELITEDRIVE
+**Luxury Car Rental & VIP Concierge**
+
+A premium vehicle rental platform combining dynamic fleet management, secure database policies, authentication, booking workflows, and an AI-powered concierge.
+
+**Core systems**
+- 🚘 Dynamic vehicle inventory & booking management
+- 🔐 Supabase Auth
+- 🛡️ Row Level Security policies
+- 🤖 AI luxury concierge
+- ☁️ Supabase-powered backend
+
+<p align="center">
+  <a href="https://elite-drive-mu.vercel.app/">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:2563EB,100:06B6D4&height=4&section=header&animation=twinkling" width="70%"/>
+</p>
+
+<p align="center">
+  <i>Not just projects — experiments in architecture, intelligence, and product design.</i>
+</p>
