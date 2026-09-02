@@ -33,3 +33,40 @@
 <i>"There is nothing I cannot learn."</i>
 
 </div>
+
+## ⚡ ABOUT ME
+
+> **Full Stack Developer · Systems Thinker · Builder**
+
+I’m **Ahmed Shehzad**, a developer focused on building software that goes beyond simply looking good.
+
+I enjoy working where **product, architecture, security, and intelligence** meet — from designing scalable backends to integrating AI into real-world applications.
+
+### 🧠 What I Build
+
+- 🚀 Scalable web applications
+- 🔐 Secure backend systems & APIs
+- 🤖 AI-powered products
+- 🗄️ Data-driven applications
+- ⚙️ Automation & intelligent workflows
+- 🧩 Systems designed with reliability in mind
+
+### 🏗️ How I Think
+
+**Architecture first.**  
+Clear boundaries, modular systems, and code that stays maintainable as projects grow.
+
+**Security by design.**  
+Authentication, authorization, validation, ownership, and data protection are part of the architecture — not an afterthought.
+
+**Intelligence with control.**  
+I combine deterministic logic with AI where it genuinely adds value.
+
+**Build → Break → Improve.**  
+I don't just want code that works. I want to understand *why* it works, where it can fail, and how to make it better.
+
+<br/>
+
+<p align="center">
+  <b>ARCHITECTURE</b> → <b>SECURITY</b> → <b>INTELLIGENCE</b> → <b>RELIABILITY</b>
+</p>
