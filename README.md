@@ -325,3 +325,70 @@ A competitive developer ranking reflecting performance across the platform's dev
 <p align="center">
   <i>Milestones achieved. Standards raised. Still building.</i>
 </p>
+
+
+## 📊 GITHUB ACTIVITY
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=Code+is+the+conversation.;Every+commit+tells+a+story.;Keep+shipping.;Keep+learning." alt="GitHub activity animation"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=github-dark-blue&hide_border=true&background=0B1220&ring=2563EB&fire=06B6D4&currStreakLabel=3B82F6&sideLabels=8b949e&dates=8b949e" width="100%" alt="GitHub contribution streak"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=github_dark&hide_border=true&bg_color=0B1220&title_color=3B82F6&text_color=8b949e&langs_count=12" width="100%" alt="Top programming languages"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ahmed-shehzad1?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=0B1220"/>
+  <img src="https://img.shields.io/github/stars/ahmed-shehzad1?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=2563EB&labelColor=0B1220"/>
+</p>
+
+<p align="center">
+  <i>Building consistently. One commit, one problem, one improvement at a time.</i>
+</p>
+
+## 🌐 LET'S CONNECT
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=620&lines=Have+an+idea%3F+Let's+build+it.;Have+a+problem%3F+Let's+solve+it.;Always+open+to+great+conversations." alt="Connect animation"/>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-khaki-zeta-11.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-shahzad-46711a405">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mrahmedshehzad321@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <b>BUILD SOMETHING GREAT.</b><br/>
+  <i>Collaborate · Create · Learn · Ship</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0B1220&height=140&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Build+something+great.;Learn+something+new.;Make+it+reliable.;Repeat." alt="Footer animation"/>
+</p>
+
+<p align="center">
+  <i>"Simplicity is prerequisite for reliability."</i>
+</p>
