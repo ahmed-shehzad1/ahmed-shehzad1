@@ -1,476 +1,416 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:2563EB,100:06B6D4&height=240&section=header&text=AHMED%20SHEHZAD&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=FULL%20STACK%20%7C%20SYSTEMS%20%7C%20AI&descAlignY=58&descSize=18&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B14,35:0B1220,65:2563EB,100:06B6D4&height=260&section=header&text=AHMED%20SHEHZAD&fontSize=58&fontColor=ffffff&fontAlignY=34&desc=FULL%20STACK%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20AI&descAlignY=57&descSize=19&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=800&color=06B6D4&center=true&vCenter=true&width=850&lines=Full+Stack+%26+Systems+Architect;Next.js+%2B+Turborepo+Monorepo+Engineer;Node.js+%2B+Prisma+%2B+PostgreSQL;AI+Integration+%26+Automation+Architect;I+build+systems+that+scale.;There+is+nothing+I+cannot+learn." alt="Animated typing" />
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ahmed-shehzad1&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" />
-&nbsp;
-<a href="https://github.com/ahmed-shehzad1?tab=followers">
-<img src="https://img.shields.io/github/followers/ahmed-shehzad1?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=0B1220" />
-</a>
-&nbsp;
-<a href="https://github.com/ahmed-shehzad1">
-<img src="https://img.shields.io/github/stars/ahmed-shehzad1?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=2563EB&labelColor=0B1220" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=900&lines=I+build+systems%2C+not+just+interfaces.;Full+Stack+%7C+Systems+%7C+AI;Architecture+%E2%86%92+Security+%E2%86%92+Reliability+%E2%86%92+Scale;Think+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Repeat;There+is+nothing+I+cannot+learn." alt="Typing animation"/>
 </a>
 
 <br><br>
 
+<a href="https://portfolio-khaki-zeta-11.vercel.app/"><img src="https://img.shields.io/badge/%E2%97%88%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-shahzad-46711a405"><img src="https://img.shields.io/badge/%E2%97%88%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mrahmedshahzad321@gmail.com"><img src="https://img.shields.io/badge/%E2%97%88%20EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ahmed-shehzad1&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
+<a href="https://github.com/ahmed-shehzad1?tab=followers"><img src="https://img.shields.io/github/followers/ahmed-shehzad1?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=050B14"/></a>
+<a href="https://github.com/ahmed-shehzad1"><img src="https://img.shields.io/github/stars/ahmed-shehzad1?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=2563EB&labelColor=050B14"/></a>
+
+<br><br>
+
+<b>THINK → BUILD → BREAK → LEARN → REPEAT</b>
+
+<br><br>
+
+<i>“There is nothing I cannot learn.”</i>
+
+</div>
+
+────────
+
+01 — WHO AM I?
+
 <table>
 <tr>
-<td align="center" width="100%">
+<td width="60%" valign="top">
 
-⚡ THINK → BUILD → BREAK → LEARN → REPEAT
+⚡ Full Stack & Systems-Focused
 
-"There is nothing I cannot learn."
+I’m a developer who enjoys going beyond making things “work.”
+
+I care about:
+
+• 🧩 Architecture — clear boundaries that remain understandable as systems grow.
+• 🔐 Security — validation, authentication, authorization and ownership.
+• ⚙️ Reliability — transactions, predictable behavior and failure handling.
+• 🤖 Intelligence — using AI where it creates real value.
+• 📈 Scalability — designing systems with room for the next version.
+• 🧠 Learning — if I don’t know something, I learn it, build with it, and make it useful.
+
+</td>
+<td width="40%" valign="top">
+
+🧬 ENGINEERING DNA
+
+```text
+SYSTEMS
+ ├─ Architecture
+ ├─ APIs
+ ├─ Databases
+ └─ Scalability
+
+SECURITY
+ ├─ Authentication
+ ├─ Authorization
+ ├─ Ownership
+ └─ Validation
+
+INTELLIGENCE
+ ├─ AI Integration
+ ├─ Automation
+ ├─ Structured Output
+ └─ Provider Routing
+
+DELIVERY
+ ├─ Monorepos
+ ├─ Cloud
+ ├─ CI/CD
+ └─ Production
+```
 
 </td>
 </tr>
 </table>
 
-<br>
+────────
 
-<a href="https://portfolio-khaki-zeta-11.vercel.app/">
-<img src="https://img.shields.io/badge/◈%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ahmed-shahzad-46711a405">
-<img src="https://img.shields.io/badge/◈%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:mrahmedshahzad321@gmail.com">
-<img src="https://img.shields.io/badge/◈%20EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+02 — ACHIEVEMENTS
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%"><h2>🥇</h2><b>UNIVERSITY</b><br>TOPPER<br><sub>4 SEMESTERS</sub></td>
+<td align="center" width="25%"><h2>🤝</h2><b>CLIENTS</b><br>4+ HANDLED<br><sub>REAL PROJECTS</sub></td>
+<td align="center" width="25%"><h2>🏗️</h2><b>ENGINEERING</b><br>FULL STACK<br><sub>PRODUCTION SYSTEMS</sub></td>
+<td align="center" width="25%"><h2>🤖</h2><b>AI</b><br>MULTI-PROVIDER<br><sub>INTELLIGENT SYSTEMS</sub></td>
+</tr>
+</table>
 
 </div>
 
 <br>
 
-<!-- ========================= ABOUT ========================= -->
+> 🎓 **Academic:** Topper at university across four semesters.  
+> 💼 **Client Work:** Successfully handled and delivered projects for at least four clients.  
+> 🚀 **Engineering:** Built systems spanning authentication, APIs, databases, cloud infrastructure and AI.
 
-<table>
-<tr>
-<td width="55%" valign="top">
+────────
 
-🧬 WHO AM I?
-
-I'm a Full Stack & Systems-focused developer who enjoys going beyond making things "work".
-
-I care about:
-
-▸ Architecture
-Designing boundaries that stay understandable as systems grow.
-
-▸ Reliability
-Validation, transactions, ownership, security, and predictable behavior.
-
-▸ Intelligence
-Combining deterministic systems with AI where AI actually adds value.
-
-▸ Learning
-If I don't know something, I learn it, build with it, and make it useful.
-
-</td>
-
-<td width="45%" valign="top">
-
-🏆 CURRENT RANK
+03 — COMPETITIVE DEVELOPMENT
 
 <div align="center">
 
 <a href="https://rankistan.dev/#ahmed-shehzad1">
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fahmed-shehzad1&style=for-the-badge" />
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fahmed-shehzad1&style=for-the-badge"/>
 </a>
-
-🇵🇰 TOP 300
-
-IN PAKISTAN
-
-Rankistan • Competitive Programming / Developer Ranking
-
-</div>
-
-</td>
-</tr>
-</table>
 
 <br>
 
-<!-- ========================= WHAT I BUILD ========================= -->
+🇵🇰 TOP 300 IN PAKISTAN
 
-<div align="center">
+Rankistan — Competitive Programming / Developer Ranking
 
-⚡ WHAT I BUILD
+<br>
+
+<i>A ranking is a snapshot. The real goal is becoming better than yesterday.</i>
+
+</div>
+
+────────
+
+04 — WHAT I BUILD
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
-🏗️
+🏗️ SCALABLE SYSTEMS
 
-SCALABLE SYSTEMS
-
-Monorepos
+```text
+Next.js
 Turborepo
 REST APIs
 Layered Architecture
-Type-safe boundaries
-Transaction-safe workflows
+Type-safe Boundaries
+PostgreSQL
+Prisma
+Transactions
+Reusable Services
+```
 
 </td>
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
-🤖
+🤖 AI PRODUCTS
 
-AI PRODUCTS
-
-Multi-provider routing
-Document parsing
-Structured outputs
-AI fallbacks
+```text
+Multi-provider AI
+Structured Outputs
+Document Parsing
+Provider Routing
+AI Fallbacks
 Automation
-Hybrid deterministic + AI systems
+Classification
+Hybrid Systems
+```
 
 </td>
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
-🔐
+🔐 SECURE BACKENDS
 
-SECURE BACKENDS
-
+```text
 JWT
 OAuth 2.0
 RBAC
-DTO validation
-Resource ownership
-Database isolation
+DTO Validation
+Resource Ownership
+Database Isolation
+Protected Routes
+Secure Workflows
+```
 
 </td>
 </tr>
 </table>
 
-</div>
+────────
 
-<br>
-
-<!-- ========================= STACK ========================= -->
+05 — TECHNOLOGY UNIVERSE
 
 <div align="center">
-
-🧰 TECHNOLOGY UNIVERSE
-
-<sub>THE TOOLS I USE TO TURN IDEAS INTO SYSTEMS</sub>
-
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="50%">
 
 🌐 FRONTEND
 
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,vite&perline=8" />
-</a>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,vite&perline=8"/>
 
 <br><br>
-
-<code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>JavaScript</code>
-
-</td>
-<td align="center" width="50%">
 
 ⚙️ BACKEND
 
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,express,js&perline=8" />
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,js&perline=8"/>
 
 <br><br>
-
-<img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-0B1220?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
 
 🗄️ DATA & CLOUD
 
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=postgres,supabase&perline=8" />
-</a>
+<img src="https://skillicons.dev/icons?i=postgres,supabase&perline=8"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black" />
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-
-</td>
-<td align="center">
-
-🤖 AI & INTELLIGENCE
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
-<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🔐 AUTH & APIs
-
-<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth_2.0-2563EB?style=for-the-badge&logo=auth0&logoColor=white" />
-<img src="https://img.shields.io/badge/Resend-0B1220?style=for-the-badge&logo=resend&logoColor=white" />
-
-</td>
-<td align="center">
-
-🛠️ DEVOPS & TOOLING
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,bash,npm,docker&perline=8" />
-</a>
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
-<img src="https://img.shields.io/badge/Railway-0B1220?style=for-the-badge&logo=railway&logoColor=white" />
+🤖 AI
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/bcrypt-338033?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/Multer-FF6600?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Nodemailer-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Sharp-4F46E5?style=for-the-badge&logo=sharp&logoColor=white" />
+🔐 AUTH • APIs • TOOLING
+
+<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth_2.0-2563EB?style=for-the-badge&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resend-0B1220?style=for-the-badge&logo=resend&logoColor=white"/>
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-0B1220?style=for-the-badge&logo=railway&logoColor=white"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,bash,npm,docker&perline=8"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/bcrypt-338033?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multer-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nodemailer-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sharp-4F46E5?style=for-the-badge"/>
 
 </div>
 
-<br>
+────────
 
-<!-- ========================= ENGINEERING ========================= -->
+06 — HOW I ENGINEER
 
 <div align="center">
 
-🧠 HOW I ENGINEER
-
 <table>
 <tr>
-<td align="center">01<br>🧩<br><b>STRUCTURE</b></td>
-<td>Clear modules • Focused responsibilities • Predictable layer boundaries</td>
+<td align="center"><b>01</b><br>🧩<br><b>STRUCTURE</b></td>
+<td>Clear modules • Focused responsibilities • Predictable boundaries</td>
 </tr>
 <tr>
-<td align="center">02<br>🔐<br><b>PROTECT</b></td>
-<td>Strict DTO validation • RBAC • Resource ownership • Secure boundaries</td>
+<td align="center"><b>02</b><br>🔐<br><b>PROTECT</b></td>
+<td>DTO validation • RBAC • Ownership • Secure boundaries</td>
 </tr>
 <tr>
-<td align="center">03<br>⚡<br><b>PROCESS</b></td>
-<td>Deterministic logic <b>first</b> • Multi-provider AI fallbacks <b>second</b></td>
+<td align="center"><b>03</b><br>⚡<br><b>PROCESS</b></td>
+<td>Deterministic logic <b>first</b> • AI fallbacks <b>second</b></td>
 </tr>
 <tr>
-<td align="center">04<br>📈<br><b>SCALE</b></td>
-<td>Reusable services • Reliable transactions • Architecture with room to grow</td>
+<td align="center"><b>04</b><br>📈<br><b>SCALE</b></td>
+<td>Reusable services • Reliable transactions • Room to grow</td>
 </tr>
 </table>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=2&section=header" width="70%" />
-
 </div>
 
-<br>
+────────
 
-<!-- ========================= PROJECTS ========================= -->
-
-<div align="center">
-
-🚀 FEATURED PROJECTS
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
+07 — FEATURED PROJECTS
 
 🎓 AIRO
 
 Academic Intelligence & Resource Orchestrator
 
-Full-stack academic platform combining knowledge management, Google Classroom synchronization, document workflows, and multi-provider AI processing.
+A full-stack academic platform combining knowledge management, Google Classroom synchronization, document workflows and multi-provider AI processing.
 
-🧠 Intelligence
-Deterministic classification + Gemini / Groq / OpenAI / DeepSeek / Claude routing for structured document extraction.
+Core Engineering
 
-🏗️ Architecture
-Turborepo monorepo with Controller → Service → Repository layering and PostgreSQL + Prisma.
+• 🧠 Deterministic classification + Gemini / Groq / OpenAI / DeepSeek / Claude routing
+• 🏗️ Turborepo monorepo with Controller → Service → Repository architecture
+• 🗄️ PostgreSQL + Prisma
+• 🔐 OAuth 2.0, ownership policies and DTO validation
+• 📄 Automated document processing and structured extraction
 
-🔐 Security
-OAuth 2.0, ownership policies, DTO validation, and controlled publishing workflow.
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--AI-06B6D4?style=for-the-badge&logo=openai&logoColor=white"/>
 
-🔗 Integrations
-Google Classroom API + automated document processing + intelligent provider fallbacks.
-
-<br>
-
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Multi--AI-06B6D4?style=for-the-badge&logo=openai&logoColor=white" />
-
-</td>
-
-<td width="50%" valign="top">
+────────
 
 🚗 RYDEX 2.0
 
 AI-Powered Ride-Sharing Platform
 
-Ride-sharing ecosystem focused on intelligent route matching, navigation, role-based portals, and secure authentication.
+Ride-sharing ecosystem focused on intelligent route matching, navigation, role-based portals and secure authentication.
 
-🗺️ Smart Matching
-Intelligent passenger-to-driver route matching algorithms.
+• 🗺️ Intelligent passenger-to-driver route matching
+• 🔐 JWT authentication and protected API routes
+• 🧭 Mapbox-powered navigation
+• 👥 Separate Driver and Passenger experiences
 
-🔐 Secure Access
-JWT authentication and protected API routes.
-
-🧭 Navigation
-Interactive mapping and routing through Mapbox API.
-
-👥 Dual Portal
-Distinct role-based experiences for Drivers and Passengers.
-
-<br><br>
-
-<a href="https://rydex-2-0.vercel.app">
-<img src="https://img.shields.io/badge/↗%20LIVE_DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://rydex-2-0.vercel.app/">
+<img src="https://img.shields.io/badge/%E2%86%97%20LIVE%20DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
+────────
 
 🏎️ ELITEDRIVE
 
 Luxury Car Rental & VIP Concierge
 
-Premium vehicle rental platform featuring dynamic fleet management, Supabase RLS security policies, and an integrated AI concierge.
+Premium vehicle rental platform featuring dynamic fleet management, Supabase RLS security and an integrated AI concierge.
 
-<table>
-<tr>
-<td><b>🚘 Fleet</b><br>Dynamic vehicle inventory and booking management.</td>
-<td><b>🔐 Auth</b><br>Secure sessions powered by Supabase Auth.</td>
-<td><b>🛡️ Security</b><br>RLS policies for complete data isolation.</td>
-<td><b>🤖 AI</b><br>Luxury concierge assistant for VIP experiences.</td>
-</tr>
-</table>
+|🚘 Fleet                    |🔐 Auth       |🛡️ Security        |🤖 AI         |
+|---------------------------|-------------|------------------|-------------|
+|Dynamic inventory & booking|Supabase Auth|RLS data isolation|VIP concierge|
 
 <div align="center">
+
 <a href="https://elite-drive-mu.vercel.app/">
-<img src="https://img.shields.io/badge/↗%20LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/%E2%86%97%20LIVE%20DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</div>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- ========================= GITHUB ========================= -->
-
-<div align="center">
-
-📊 GITHUB COMMAND CENTER
-
-<img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=github-dark-blue&hide_border=true&background=0B1220&ring=2563EB&fire=06B6D4&currStreakLabel=3B82F6&sideLabels=8b949e&dates=8b949e" height="180" />
-
-<br><br>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=github_dark&hide_border=true&bg_color=0B1220&title_color=3B82F6&text_color=8b949e&langs_count=12" height="180" />
-
-<br><br>
-
-<a href="https://rankistan.dev/#ahmed-shehzad1">
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fahmed-shehzad1&style=for-the-badge" />
-</a>
-
-<br>
-
-🇵🇰 TOP 300 IN PAKISTAN ON RANKISTAN
 
 </div>
 
-<br>
+────────
 
-<!-- ========================= CONNECT ========================= -->
+08 — GITHUB COMMAND CENTER
 
 <div align="center">
 
-🤝 LET'S CONNECT
+<img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=github-dark-blue&hide_border=true&background=0B1220&ring=2563EB&fire=06B6D4&currStreakLabel=3B82F6&sideLabels=8b949e&dates=8b949e" height="180"/>
 
-<table>
-<tr>
-<td align="center">
+<br><br>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=github_dark&hide_border=true&bg_color=0B1220&title_color=3B82F6&text_color=8b949e&langs_count=12" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-shehzad1&bg_color=0B1220&color=06B6D4&line=2563EB&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+────────
+
+09 — CURRENT FOCUS
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  ▲  BUILDING BETTER SYSTEMS                                │
+│                                                             │
+│  → Advanced backend architecture                            │
+│  → AI-powered developer workflows                           │
+│  → Scalable TypeScript systems                              │
+│  → Cloud infrastructure & deployment                        │
+│  → Production-grade security                                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+The goal isn’t to know everything.
+
+The goal is to be able to learn anything.
+
+</div>
+
+────────
+
+10 — LET’S CONNECT
+
+<div align="center">
 
 <a href="https://portfolio-khaki-zeta-11.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-</td>
-<td align="center">
 
 <a href="https://www.linkedin.com/in/ahmed-shahzad-46711a405">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</td>
-<td align="center">
 
 <a href="mailto:mrahmedshahzad321@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</td>
-<td align="center">
 
 <a href="https://github.com/ahmed-shehzad1">
-<img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-</tr>
-</table>
+<br><br>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Build+something+great.;Learn+something+new.;Make+it+reliable.;Repeat." alt="Footer animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Build+something+great.;Learn+something+new.;Make+it+reliable.;Repeat." alt="Footer animation"/>
 
 <br><br>
 
-<sub>⚡ Build. Learn. Improve. Repeat.</sub>
+<i>⚡ Build. Learn. Improve. Repeat.</i>
 
 <br><br>
 
-"Simplicity is prerequisite for reliability."
+“Simplicity is prerequisite for reliability.”
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0B1220&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0B1220&height=140&section=footer" width="100%"/>
