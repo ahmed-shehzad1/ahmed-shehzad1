@@ -282,3 +282,46 @@ A premium vehicle rental platform combining dynamic fleet management, secure dat
 <p align="center">
   <i>Not just projects — experiments in architecture, intelligence, and product design.</i>
 </p>
+
+## 🏆 ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=620&lines=Consistency+creates+results.;Results+create+momentum.;Always+aiming+higher." alt="Achievements animation"/>
+</p>
+
+### 🎓 ACADEMIC EXCELLENCE
+
+**Highest GPA in my department** — maintained the leading academic standing across **4 consecutive semesters**.
+
+`01` → `02` → `03` → `04`  
+**4 SEMESTERS · CONSISTENTLY AT THE TOP**
+
+---
+
+### 🤝 REAL-WORLD EXPERIENCE
+
+**4+ clients served** through real-world development work, turning requirements and ideas into functional software solutions.
+
+From understanding the problem to building, refining, and delivering the solution — experience that goes beyond the classroom.
+
+---
+
+### 🌐 COMPETITIVE RANKING
+
+**Top 300 in Pakistan on Rankistan**
+
+A competitive developer ranking reflecting performance across the platform's developer community.
+
+<p align="center">
+  <b>ACADEMICS</b> &nbsp;•&nbsp; <b>CLIENTS</b> &nbsp;•&nbsp; <b>COMPETITION</b>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,50:2563EB,100:06B6D4&height=4&section=header&animation=twinkling" width="70%"/>
+</p>
+
+<p align="center">
+  <i>Milestones achieved. Standards raised. Still building.</i>
+</p>
