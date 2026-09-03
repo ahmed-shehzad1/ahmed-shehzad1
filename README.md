@@ -328,19 +328,26 @@ A competitive developer ranking reflecting performance across the platform's dev
 
 <div align="center">
 
+<div align="center">
+
 ### 📊 GITHUB COMMAND CENTER & METRICS
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=Code+is+the+conversation.;Every+commit+tells+a+story.;Building+reliably+%E2%80%A2+Shipping+consistently." alt="Typing Animation"/>
 </p>
 
-<!-- SIDE-BY-SIDE STATS CARDS -->
+<!-- STATS & LANGUAGES DASHBOARD -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=tokyonight&hide_border=true&background=0B1220&ring=2563EB&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=8b949e&dates=8b949e" height="175" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=06B6D4&text_color=8b949e&langs_count=8" height="175" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-shehzad1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=06B6D4&text_color=8b949e&icon_color=2563EB" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-shehzad1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=06B6D4&text_color=8b949e&langs_count=8" height="175" alt="Top Languages"/>
 </p>
 
-<!-- FULL-WIDTH ACTIVITY GRAPH -->
+<!-- STREAK METRICS -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=tokyonight&hide_border=true&background=0B1220&ring=2563EB&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=8b949e&dates=8b949e" width="96%" alt="GitHub Streak"/>
+</p>
+
+<!-- ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-shehzad1&bg_color=0B1220&color=06B6D4&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Activity Graph"/>
 </p>
