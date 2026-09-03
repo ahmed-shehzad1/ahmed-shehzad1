@@ -326,33 +326,43 @@ A competitive developer ranking reflecting performance across the platform's dev
   <i>Milestones achieved. Standards raised. Still building.</i>
 </p>
 
+<div align="center">
 
-## 📊 GITHUB ACTIVITY
+### 📊 GITHUB COMMAND CENTER & METRICS
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=Code+is+the+conversation.;Every+commit+tells+a+story.;Keep+shipping.;Keep+learning." alt="GitHub activity animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=Code+is+the+conversation.;Every+commit+tells+a+story.;Building+reliably+%E2%80%A2+Shipping+consistently." alt="Typing Animation"/>
 </p>
 
+<!-- SIDE-BY-SIDE STATS CARDS -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=github-dark-blue&hide_border=true&background=0B1220&ring=2563EB&fire=06B6D4&currStreakLabel=3B82F6&sideLabels=8b949e&dates=8b949e" width="100%" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=tokyonight&hide_border=true&background=0B1220&ring=2563EB&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=8b949e&dates=8b949e" height="175" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=06B6D4&text_color=8b949e&langs_count=8" height="175" alt="Top Languages"/>
+</p>
+
+<!-- FULL-WIDTH ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-shehzad1&bg_color=0B1220&color=06B6D4&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Activity Graph"/>
 </p>
 
 <br/>
 
+<!-- BADGES COMMAND BAR -->
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmed-shehzad1&layout=compact&theme=github_dark&hide_border=true&bg_color=0B1220&title_color=3B82F6&text_color=8b949e&langs_count=12" width="100%" alt="Top programming languages"/>
+  <img src="https://komarev.com/ghpvc/?username=ahmed-shehzad1&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Views"/>
+  <a href="https://github.com/ahmed-shehzad1?tab=followers">
+    <img src="https://img.shields.io/github/followers/ahmed-shehzad1?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=0B1220" alt="Followers"/>
+  </a>
+  <a href="https://github.com/ahmed-shehzad1?tab=stars">
+    <img src="https://img.shields.io/github/stars/ahmed-shehzad1?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=2563EB&labelColor=0B1220" alt="Stars"/>
+  </a>
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ahmed-shehzad1?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=0B1220"/>
-  <img src="https://img.shields.io/github/stars/ahmed-shehzad1?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=2563EB&labelColor=0B1220"/>
+  <i>⚡ Building consistently — one commit, one system, one breakthrough at a time.</i>
 </p>
 
-<p align="center">
-  <i>Building consistently. One commit, one problem, one improvement at a time.</i>
-</p>
+</div>
 
 ## 🌐 LET'S CONNECT
 
