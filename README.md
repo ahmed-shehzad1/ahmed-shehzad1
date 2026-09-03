@@ -34,36 +34,41 @@
 
 </div>
 
-## ⚡ ABOUT ME
+⚡ ABOUT ME
 
-> **Full Stack Developer · Systems Thinker · Builder**
+Full Stack Developer · Systems Thinker · Builder
 
-I’m **Ahmed Shehzad**, a developer focused on building software that goes beyond simply looking good.
+I’m Ahmed Shehzad, a developer focused on building software that goes beyond simply looking good.
 
-I enjoy working where **product, architecture, security, and intelligence** meet — from designing scalable backends to integrating AI into real-world applications.
+I enjoy working where product, architecture, security, and intelligence meet — from designing scalable backends to integrating AI into real-world applications.
 
-### 🧠 What I Build
+🧠 What I Build
 
-- 🚀 Scalable web applications
-- 🔐 Secure backend systems & APIs
-- 🤖 AI-powered products
-- 🗄️ Data-driven applications
-- ⚙️ Automation & intelligent workflows
-- 🧩 Systems designed with reliability in mind
+🚀 Scalable web applications
 
-### 🏗️ How I Think
+🔐 Secure backend systems & APIs
 
-**Architecture first.**  
+🤖 AI-powered products
+
+🗄️ Data-driven applications
+
+⚙️ Automation & intelligent workflows
+
+🧩 Systems designed with reliability in mind
+
+🏗️ How I Think
+
+Architecture first.
 Clear boundaries, modular systems, and code that stays maintainable as projects grow.
 
-**Security by design.**  
+Security by design.
 Authentication, authorization, validation, ownership, and data protection are part of the architecture — not an afterthought.
 
-**Intelligence with control.**  
+Intelligence with control.
 I combine deterministic logic with AI where it genuinely adds value.
 
-**Build → Break → Improve.**  
-I don't just want code that works. I want to understand *why* it works, where it can fail, and how to make it better.
+Build → Break → Improve.
+I don't just want code that works. I want to understand why it works, where it can fail, and how to make it better.
 
 <br/>
 
@@ -71,13 +76,11 @@ I don't just want code that works. I want to understand *why* it works, where it
   <b>ARCHITECTURE</b> → <b>SECURITY</b> → <b>INTELLIGENCE</b> → <b>RELIABILITY</b>
 </p>
 
-## 🧬 TECH ARSENAL
+🧬 TECH ARSENAL
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Tools+are+just+the+beginning.;Build+with+the+right+stack.;Turn+ideas+into+systems." alt="Tech stack animation"/>
-</p>
 
-### 🎨 Frontend
+
+🎨 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -88,7 +91,7 @@ I don't just want code that works. I want to understand *why* it works, where it
 <img src="https://img.shields.io/badge/Vite-0B1220?style=for-the-badge&logo=vite&logoColor=646CFF"/>
 </p>
 
-### ⚙️ Backend & APIs
+⚙️ Backend & APIs
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=node.js&logoColor=68A063"/>
@@ -97,7 +100,7 @@ I don't just want code that works. I want to understand *why* it works, where it
 <img src="https://img.shields.io/badge/JWT-0B1220?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
-### 🗄️ Data & Cloud
+🗄️ Data & Cloud
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
@@ -106,7 +109,7 @@ I don't just want code that works. I want to understand *why* it works, where it
 <img src="https://img.shields.io/badge/Cloudinary-0B1220?style=for-the-badge&logo=cloudinary&logoColor=3448C5"/>
 </p>
 
-### 🤖 AI & Intelligence
+🤖 AI & Intelligence
 
 <p>
 <img src="https://img.shields.io/badge/OpenAI-0B1220?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -116,7 +119,7 @@ I don't just want code that works. I want to understand *why* it works, where it
 <img src="https://img.shields.io/badge/DeepSeek-0B1220?style=for-the-badge&logoColor=4F8CFF"/>
 </p>
 
-### 🔐 Auth & Integrations
+🔐 Auth & Integrations
 
 <p>
 <img src="https://img.shields.io/badge/OAuth%202.0-0B1220?style=for-the-badge&logo=auth0&logoColor=EB5424"/>
@@ -125,7 +128,7 @@ I don't just want code that works. I want to understand *why* it works, where it
 <img src="https://img.shields.io/badge/Mapbox-0B1220?style=for-the-badge&logo=mapbox&logoColor=white"/>
 </p>
 
-### 🛠️ DevOps & Tooling
+🛠️ DevOps & Tooling
 
 <p>
 <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032"/>
@@ -147,57 +150,72 @@ I don't just want code that works. I want to understand *why* it works, where it
   <i>Learning new tools. Breaking old assumptions. Building better systems.</i>
 </p>
 
-## 🧠 ENGINEERING PHILOSOPHY
+🧠 ENGINEERING PHILOSOPHY
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2400&pause=700&color=06B6D4&center=true&vCenter=true&width=650&lines=Don't+just+make+it+work.;Make+it+make+sense.;Make+it+secure.;Make+it+ready+to+grow." alt="Engineering philosophy animation"/>
 </p>
 
-> **Build systems that are easy to understand, difficult to misuse, and ready to evolve.**
+Build systems that are easy to understand, difficult to misuse, and ready to evolve.
 
-### 🧩 STRUCTURE
+🧩 STRUCTURE
 
-I believe good architecture starts with **clarity**.
+I believe good architecture starts with clarity.
 
 I focus on:
-- Clear module boundaries
-- Focused responsibilities
-- Reusable services
-- Predictable data flow
-- Maintainable code
 
-`Controller → Service → Repository`
+Clear module boundaries
 
-### 🔐 PROTECT
+Focused responsibilities
 
-Security is part of the architecture — **not a final checklist.**
+Reusable services
+
+Predictable data flow
+
+Maintainable code
+
+Controller → Service → Repository
+
+🔐 PROTECT
+
+Security is part of the architecture — not a final checklist.
 
 My approach includes:
-- Authentication & authorization
-- RBAC
-- DTO & input validation
-- Resource ownership
-- Protected API boundaries
-- Secure database operations
 
-### ⚙️ PROCESS
+Authentication & authorization
 
-**Deterministic logic first. AI where it adds value.**
+RBAC
+
+DTO & input validation
+
+Resource ownership
+
+Protected API boundaries
+
+Secure database operations
+
+⚙️ PROCESS
+
+Deterministic logic first. AI where it adds value.
 
 I prefer reliable conventional logic when the problem doesn't require AI.
 
 When AI genuinely improves the product, I build it with:
-- Controlled provider routing
-- Fallback strategies
-- Structured outputs
-- Predictable failure handling
 
-### 📈 SCALE
+Controlled provider routing
+
+Fallback strategies
+
+Structured outputs
+
+Predictable failure handling
+
+📈 SCALE
 
 I don't want software that only works today.
 
 I aim for systems that can:
-**evolve → scale → integrate → survive change**
+evolve → scale → integrate → survive change
 
 <br/>
 
@@ -213,39 +231,51 @@ I aim for systems that can:
   <i>Good software isn't just built. It's engineered.</i>
 </p>
 
-## 🚀 FEATURED PROJECTS
+🚀 FEATURED PROJECTS
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=Ideas+into+products.;Products+into+systems.;Systems+built+to+last." alt="Projects animation"/>
 </p>
 
-### 🧠 AIRO
-**Academic Intelligence & Resource Orchestrator**
+🧠 AIRO
+
+Academic Intelligence & Resource Orchestrator
 
 A full-stack academic platform combining knowledge management, Google Classroom synchronization, document workflows, and multi-provider AI processing.
 
-**What makes it interesting**
-- 🤖 Gemini / Groq / OpenAI / DeepSeek / Claude routing
-- 📚 Google Classroom integration
-- 📄 Intelligent document extraction & processing
-- 🏗️ Turborepo monorepo architecture
-- 🗄️ PostgreSQL + Prisma
-- 🔐 OAuth 2.0, ownership policies & DTO validation
-- ⚙️ Controller → Service → Repository architecture
+What makes it interesting
 
----
+🤖 Gemini / Groq / OpenAI / DeepSeek / Claude routing
 
-### 🚗 RYDEX 2.0
-**AI-Powered Ride-Sharing Platform**
+📚 Google Classroom integration
+
+📄 Intelligent document extraction & processing
+
+🏗️ Turborepo monorepo architecture
+
+🗄️ PostgreSQL + Prisma
+
+🔐 OAuth 2.0, ownership policies & DTO validation
+
+⚙️ Controller → Service → Repository architecture
+
+🚗 RYDEX 2.0
+
+AI-Powered Ride-Sharing Platform
 
 A ride-sharing ecosystem built around intelligent route matching, navigation, secure authentication, and dedicated driver/passenger experiences.
 
-**Core systems**
-- 🧠 Intelligent passenger-to-driver route matching
-- 🔐 JWT authentication & protected APIs
-- 🗺️ Mapbox-powered navigation
-- 👤 Driver & Passenger portals
-- ⚡ Full-stack real-time oriented architecture
+Core systems
+
+🧠 Intelligent passenger-to-driver route matching
+
+🔐 JWT authentication & protected APIs
+
+🗺️ Mapbox-powered navigation
+
+👤 Driver & Passenger portals
+
+⚡ Full-stack real-time oriented architecture
 
 <p align="center">
   <a href="https://rydex-2-0.vercel.app/">
@@ -253,19 +283,23 @@ A ride-sharing ecosystem built around intelligent route matching, navigation, se
   </a>
 </p>
 
----
+💎 ELITEDRIVE
 
-### 💎 ELITEDRIVE
-**Luxury Car Rental & VIP Concierge**
+Luxury Car Rental & VIP Concierge
 
 A premium vehicle rental platform combining dynamic fleet management, secure database policies, authentication, booking workflows, and an AI-powered concierge.
 
-**Core systems**
-- 🚘 Dynamic vehicle inventory & booking management
-- 🔐 Supabase Auth
-- 🛡️ Row Level Security policies
-- 🤖 AI luxury concierge
-- ☁️ Supabase-powered backend
+Core systems
+
+🚘 Dynamic vehicle inventory & booking management
+
+🔐 Supabase Auth
+
+🛡️ Row Level Security policies
+
+🤖 AI luxury concierge
+
+☁️ Supabase-powered backend
 
 <p align="center">
   <a href="https://elite-drive-mu.vercel.app/">
@@ -283,38 +317,33 @@ A premium vehicle rental platform combining dynamic fleet management, secure dat
   <i>Not just projects — experiments in architecture, intelligence, and product design.</i>
 </p>
 
-## 🏆 ACHIEVEMENTS
+🏆 ACHIEVEMENTS
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=620&lines=Consistency+creates+results.;Results+create+momentum.;Always+aiming+higher." alt="Achievements animation"/>
 </p>
 
-### 🎓 ACADEMIC EXCELLENCE
+🎓 Academic Excellence
 
-**Highest GPA in my department** — maintained the leading academic standing across **4 consecutive semesters**.
+🥇 Highest GPA in my department
 
-`01` → `02` → `03` → `04`  
-**4 SEMESTERS · CONSISTENTLY AT THE TOP**
+📚 Maintained the leading academic standing for 4 consecutive semesters
 
----
+01 → 02 → 03 → 04
 
-### 🤝 REAL-WORLD EXPERIENCE
+🤝 Real-World Experience
 
-**4+ clients served** through real-world development work, turning requirements and ideas into functional software solutions.
+💼 Worked with 4+ clients on real-world development projects
 
-From understanding the problem to building, refining, and delivering the solution — experience that goes beyond the classroom.
+🧩 Turned requirements and ideas into functional software
 
----
+🚀 Experience spanning problem discovery → development → refinement → delivery
 
-### 🌐 COMPETITIVE RANKING
+🌐 Competitive Ranking
 
-**Top 300 in Pakistan on Rankistan**
+🏆 Top 300 in Pakistan on Rankistan
 
-A competitive developer ranking reflecting performance across the platform's developer community.
-
-<p align="center">
-  <b>ACADEMICS</b> &nbsp;•&nbsp; <b>CLIENTS</b> &nbsp;•&nbsp; <b>COMPETITION</b>
-</p>
+📈 Ranked among developers based on performance within the platform's community
 
 <br/>
 
@@ -330,33 +359,59 @@ A competitive developer ranking reflecting performance across the platform's dev
 
 <div align="center">
 
-### 📊 GITHUB COMMAND CENTER & METRICS
+📊 GITHUB COMMAND CENTER & METRICS
+
+
+
+<!-- GITHUB OVERVIEW -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=620&lines=Code+is+the+conversation.;Every+commit+tells+a+story.;Building+reliably+%E2%80%A2+Shipping+consistently." alt="Typing Animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-shehzad1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=06B6D4&text_color=8b949e&icon_color=2563EB&rank_icon=github" width="49%" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=tokyonight&hide_border=true&background=0B1220&ring=2563EB&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=8b949e&dates=8b949e" width="49%" alt="GitHub Streak"/>
 </p>
 
-<!-- STATS & LANGUAGES DASHBOARD -->
+<!-- CONTRIBUTION OVERVIEW
+     This replaces the fragile activity-graph endpoint with a profile-details card
+     that includes GitHub contribution activity and a language summary.
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-shehzad1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=06B6D4&text_color=8b949e&icon_color=2563EB" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-shehzad1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=06B6D4&text_color=8b949e&langs_count=8" height="175" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-shehzad1&theme=github_dark" width="96%" alt="GitHub contribution overview"/>
 </p>
 
-<!-- STREAK METRICS -->
+🧰 Languages & Tools
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=tokyonight&hide_border=true&background=0B1220&ring=2563EB&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=8b949e&dates=8b949e" width="96%" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0B1220" height="34" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0B1220" height="34" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0B1220" height="34" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0B1220" height="34" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=node.js&logoColor=68A063&labelColor=0B1220" height="34" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0B1220" height="34" alt="Python"/>
 </p>
 
-<!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-shehzad1&bg_color=0B1220&color=06B6D4&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Activity Graph"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0B1220" height="34" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-0B1220?style=for-the-badge&logo=supabase&logoColor=3ECF8E&labelColor=0B1220" height="34" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0B1220" height="34" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0B1220" height="34" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0B1220" height="34" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220" height="34" alt="GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-0B1220?style=for-the-badge&logo=openai&logoColor=white&labelColor=0B1220" height="34" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Gemini-0B1220?style=for-the-badge&logo=google&logoColor=8AB4F8&labelColor=0B1220" height="34" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Claude-0B1220?style=for-the-badge&logo=anthropic&logoColor=D97757&labelColor=0B1220" height="34" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0B1220" height="34" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vercel-0B1220?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1220" height="34" alt="Vercel"/>
 </p>
 
 <br/>
 
 <!-- BADGES COMMAND BAR -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed-shehzad1&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Views"/>
   <a href="https://github.com/ahmed-shehzad1?tab=followers">
     <img src="https://img.shields.io/github/followers/ahmed-shehzad1?label=FOLLOWERS&style=for-the-badge&color=06B6D4&labelColor=0B1220" alt="Followers"/>
   </a>
@@ -371,7 +426,7 @@ A competitive developer ranking reflecting performance across the platform's dev
 
 </div>
 
-## 🌐 LET'S CONNECT
+🌐 LET'S CONNECT
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=620&lines=Have+an+idea%3F+Let's+build+it.;Have+a+problem%3F+Let's+solve+it.;Always+open+to+great+conversations." alt="Connect animation"/>
