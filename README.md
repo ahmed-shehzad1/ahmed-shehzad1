@@ -327,7 +327,7 @@ Competitive developer ranking
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-shehzad1&bg_color=0B1220&color=94A3B8&line=2563EB&point=06B6D4&area=true&hide_border=true" width="96%" />
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fahmed-shehzad1&style=flat)](https://rankistan.dev/#ahmed-shehzad1)
 
 </div>
 
