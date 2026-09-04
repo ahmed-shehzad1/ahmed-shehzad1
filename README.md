@@ -321,13 +321,12 @@ Competitive developer ranking
 
 <div align="center">
 
-<div align="center">
 
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=ahmed-shehzad1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-  width="95%"
-  alt="GitHub Trophies"
-/>
+
+### 🟡 GitHub Activity
+
+<img src="https://raw.githubusercontent.com/ahmed-shehzad1/ahmed-shehzad1/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="95%" />
+
 
 </div>
 
