@@ -321,11 +321,15 @@ Competitive developer ranking
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ahmed-shehzad1&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0B1220&title_color=06B6D4&text_color=94A3B8&icon_color=2563EB&rank_icon=github"
-  width="48%"
-  alt="Ahmed's GitHub Stats"
+<div align="center">
+
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=ahmed-shehzad1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+  width="95%"
+  alt="GitHub Trophies"
 />
+
+</div>
 
 <img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=tokyonight&hide_border=true&background=0B1220&ring=2563EB&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=64748B" width="49%" />
 
