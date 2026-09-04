@@ -321,20 +321,28 @@ Competitive developer ranking
 
 <div align="center">
 
-
-
-### 🟡 GitHub Activity
-
-<img src="https://raw.githubusercontent.com/ahmed-shehzad1/ahmed-shehzad1/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="95%" />
-
-
-</div>
-
-<img src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=tokyonight&hide_border=true&background=0B1220&ring=2563EB&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=64748B" width="49%" />
+<img
+  src="https://streak-stats.demolab.com?user=ahmed-shehzad1&theme=tokyonight&hide_border=true&background=0B1220&ring=2563EB&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=64748B"
+  width="65%"
+  alt="GitHub Streak"
+/>
 
 <br><br>
 
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fahmed-shehzad1&style=flat)](https://rankistan.dev/#ahmed-shehzad1)
+<img
+  src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,postgres,docker&perline=8"
+  height="45"
+  alt="Technologies"
+/>
+
+<br><br>
+
+<a href="https://rankistan.dev/#ahmed-shehzad1">
+  <img
+    src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fahmed-shehzad1&style=flat"
+    alt="Rankistan rank badge"
+  />
+</a>
 
 </div>
 
